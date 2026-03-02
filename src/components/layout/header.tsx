@@ -14,6 +14,27 @@ export function Header() {
   const cartCount = useCartStore((s) => s.cartCount());
   const openCart = useCartStore((s) => s.openCart);
   const [searchVal, setSearchVal] = useState("");
+  const [location, setLocation] = useState("Select Location");
+  const [locLoading, setLocLoading] = useState(false);
+
+  const getLocation = () => {
+    if (!navigator.geolocation) { setLocation("Not supported"); return; }
+    setLocLoading(true);
+    navigator.geolocation.getCurrentPosition(
+      async (pos) => {
+        try {
+          const res = await fetch("https://nominatim.openstreetmap.org/reverse?format=json&lat=" + pos.coords.latitude + "&lon=" + pos.coords.longitude);
+          const data = await res.json();
+          const city = data.address?.city || data.address?.town || data.address?.village || "Your Area";
+          const postcode = data.address?.postcode || "";
+          setLocation(city + (postcode ? " " + postcode : ""));
+        } catch { setLocation("Location found"); }
+        setLocLoading(false);
+      },
+      () => { setLocation("Access denied"); setLocLoading(false); },
+      { timeout: 10000 }
+    );
+  };
   const setSearchQuery = useFilterStore((s) => s.setSearchQuery);
   const router = useRouter();
   const handleSearch = (e: React.FormEvent) => {
@@ -47,9 +68,9 @@ export function Header() {
             </div>
             <span className="text-white font-bold text-xl hidden sm:block">Amakart</span>
           </Link>
-          <button className="hidden md:flex items-center gap-1 text-white/80 hover:text-white text-xs shrink-0">
+          <button onClick={getLocation} className="hidden md:flex items-center gap-1 text-white/80 hover:text-white text-xs shrink-0">
             <MapPin className="h-4 w-4" />
-            <div className="text-left"><div className="text-[10px] text-white/60">Deliver to</div><div className="font-semibold">Hyderabad 500001</div></div>
+            <div className="text-left"><div className="text-[10px] text-white/60">Deliver to</div><div className="font-semibold">{locLoading ? "Detecting..." : location}</div></div>
           </button>
           <form onSubmit={handleSearch} className="flex-1 max-w-2xl">
             <div className="relative">
