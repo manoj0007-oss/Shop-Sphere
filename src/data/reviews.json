@@ -1,0 +1,57 @@
+[
+  {
+    "id": "rev-001",
+    "productId": "prod-001",
+    "userName": "Rahul Sharma",
+    "avatar": "RS",
+    "rating": 5,
+    "date": "2026-02-15",
+    "title": "Best headphones ever!",
+    "comment": "The noise cancellation is incredible. Battery lasts forever.",
+    "helpful": 42
+  },
+  {
+    "id": "rev-002",
+    "productId": "prod-001",
+    "userName": "Priya Patel",
+    "avatar": "PP",
+    "rating": 4,
+    "date": "2026-02-10",
+    "title": "Great sound quality",
+    "comment": "Amazing sound and ANC. Fantastic at this price.",
+    "helpful": 28
+  },
+  {
+    "id": "rev-003",
+    "productId": "prod-001",
+    "userName": "Arun Kumar",
+    "avatar": "AK",
+    "rating": 5,
+    "date": "2026-01-28",
+    "title": "Worth every rupee",
+    "comment": "At 50% off, absolute steal. Rivals brands costing 3x more.",
+    "helpful": 35
+  },
+  {
+    "id": "rev-004",
+    "productId": "prod-002",
+    "userName": "Sneha Reddy",
+    "avatar": "SR",
+    "rating": 4,
+    "date": "2026-02-20",
+    "title": "Powerful and lightweight",
+    "comment": "Perfect for coding. Battery lasts a full workday.",
+    "helpful": 19
+  },
+  {
+    "id": "rev-005",
+    "productId": "prod-003",
+    "userName": "Vikram Singh",
+    "avatar": "VS",
+    "rating": 5,
+    "date": "2026-02-18",
+    "title": "Best fitness companion",
+    "comment": "GPS accurate, heart rate perfect, 2 weeks battery.",
+    "helpful": 56
+  }
+]

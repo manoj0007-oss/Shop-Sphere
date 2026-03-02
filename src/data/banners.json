@@ -1,0 +1,52 @@
+[
+  {
+    "id": "banner-1",
+    "title": "Mega Electronics Sale",
+    "subtitle": "Up to 60% off on headphones, laptops & more",
+    "ctaText": "Shop Now",
+    "ctaLink": "/products?category=electronics",
+    "gradientFrom": "#667eea",
+    "gradientTo": "#764ba2",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800"
+  },
+  {
+    "id": "banner-2",
+    "title": "Fashion Fiesta",
+    "subtitle": "New arrivals starting from ₹499",
+    "ctaText": "Explore Collection",
+    "ctaLink": "/products?category=fashion",
+    "gradientFrom": "#f093fb",
+    "gradientTo": "#f5576c",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800"
+  },
+  {
+    "id": "banner-3",
+    "title": "Home Makeover Days",
+    "subtitle": "Transform your space with premium essentials",
+    "ctaText": "Shop Home",
+    "ctaLink": "/products?category=home",
+    "gradientFrom": "#4facfe",
+    "gradientTo": "#00f2fe",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800"
+  },
+  {
+    "id": "banner-4",
+    "title": "Fitness Goals Start Here",
+    "subtitle": "Flat 50% off on sports & fitness gear",
+    "ctaText": "Get Fit",
+    "ctaLink": "/products?category=sports",
+    "gradientFrom": "#43e97b",
+    "gradientTo": "#38f9d7",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800"
+  },
+  {
+    "id": "banner-5",
+    "title": "Weekend Special Deals",
+    "subtitle": "Extra 10% off with code WEEKEND10",
+    "ctaText": "Grab Deals",
+    "ctaLink": "/products",
+    "gradientFrom": "#fa709a",
+    "gradientTo": "#fee140",
+    "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800"
+  }
+]

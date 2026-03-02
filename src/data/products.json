@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "prod-001",
+    "title": "Premium Wireless Noise Cancelling Headphones",
+    "slug": "premium-wireless-headphones",
+    "price": 2499,
+    "originalPrice": 4999,
+    "discount": 50,
+    "rating": 4.5,
+    "reviewCount": 2847,
+    "brand": "SoundMax",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600",
+      "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Midnight Black",
+        "hex": "#1a1a2e"
+      },
+      {
+        "name": "Pearl White",
+        "hex": "#f0f0f0"
+      },
+      {
+        "name": "Navy Blue",
+        "hex": "#16213e"
+      }
+    ],
+    "description": "Experience immersive audio with advanced ANC technology, 40-hour battery life, and ultra-comfortable memory foam ear cushions.",
+    "features": [
+      "Active Noise Cancellation",
+      "40-Hour Battery",
+      "Bluetooth 5.3",
+      "Memory Foam Cushions",
+      "Fast Charging"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "deals",
+      "trending",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-002",
+    "title": "Ultra Slim Laptop 14 inch - Intel i7",
+    "slug": "ultra-slim-laptop-14",
+    "price": 54999,
+    "originalPrice": 74999,
+    "discount": 27,
+    "rating": 4.3,
+    "reviewCount": 1523,
+    "brand": "TechNova",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600"
+    ],
+    "sizes": [
+      "14 inch",
+      "15.6 inch"
+    ],
+    "colors": [
+      {
+        "name": "Space Grey",
+        "hex": "#4a4a4a"
+      },
+      {
+        "name": "Silver",
+        "hex": "#c0c0c0"
+      }
+    ],
+    "description": "Sleek ultrabook with stunning FHD display and all-day battery life.",
+    "features": [
+      "Intel Core i7 13th Gen",
+      "16GB DDR5 RAM",
+      "512GB NVMe SSD",
+      "FHD IPS Display",
+      "Fingerprint Reader"
+    ],
+    "inStock": true,
+    "deliveryDays": 5,
+    "tags": [
+      "trending",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-003",
+    "title": "Smart Fitness Watch Pro with GPS",
+    "slug": "smart-fitness-watch-pro",
+    "price": 3999,
+    "originalPrice": 7999,
+    "discount": 50,
+    "rating": 4.6,
+    "reviewCount": 4210,
+    "brand": "FitBand",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+      "https://images.unsplash.com/photo-1546868871-af0de0ae72be?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Obsidian Black",
+        "hex": "#0d0d0d"
+      },
+      {
+        "name": "Moss Green",
+        "hex": "#4a7c59"
+      },
+      {
+        "name": "Rose Gold",
+        "hex": "#b76e79"
+      }
+    ],
+    "description": "Track fitness with GPS, heart rate, SpO2, and 14-day battery.",
+    "features": [
+      "Built-in GPS",
+      "Heart Rate Monitor",
+      "SpO2 Tracking",
+      "14-Day Battery",
+      "5ATM Water Resistant"
+    ],
+    "inStock": true,
+    "deliveryDays": 2,
+    "tags": [
+      "deals",
+      "trending",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-004",
+    "title": "Men's Premium Cotton Casual Shirt",
+    "slug": "mens-premium-cotton-shirt",
+    "price": 899,
+    "originalPrice": 1999,
+    "discount": 55,
+    "rating": 4.2,
+    "reviewCount": 876,
+    "brand": "UrbanThread",
+    "category": "fashion",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=600"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "Sky Blue",
+        "hex": "#87CEEB"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#36454f"
+      }
+    ],
+    "description": "100% premium Egyptian cotton casual shirt.",
+    "features": [
+      "100% Egyptian Cotton",
+      "Slim Fit",
+      "Wrinkle Resistant",
+      "Machine Washable",
+      "Breathable"
+    ],
+    "inStock": true,
+    "deliveryDays": 4,
+    "tags": [
+      "deals",
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-005",
+    "title": "Women's Running Shoes - Ultra Boost",
+    "slug": "womens-running-shoes",
+    "price": 3499,
+    "originalPrice": 5999,
+    "discount": 42,
+    "rating": 4.7,
+    "reviewCount": 3192,
+    "brand": "StrideFlex",
+    "category": "fashion",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600"
+    ],
+    "sizes": [
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7",
+      "UK 8"
+    ],
+    "colors": [
+      {
+        "name": "Coral Pink",
+        "hex": "#ff6f61"
+      },
+      {
+        "name": "Cloud White",
+        "hex": "#f5f5f5"
+      },
+      {
+        "name": "Volt Green",
+        "hex": "#ccff00"
+      }
+    ],
+    "description": "Responsive cushioning with breathable knit upper.",
+    "features": [
+      "Responsive Cushioning",
+      "Knit Upper",
+      "Rubber Outsole",
+      "Lightweight",
+      "Flexible Fit"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "bestseller",
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-006",
+    "title": "Stainless Steel French Press",
+    "slug": "stainless-steel-french-press",
+    "price": 1299,
+    "originalPrice": 2499,
+    "discount": 48,
+    "rating": 4.4,
+    "reviewCount": 1567,
+    "brand": "BrewMaster",
+    "category": "home",
+    "images": [
+      "https://images.unsplash.com/photo-1572119865084-43c285814d63?w=600",
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Brushed Steel",
+        "hex": "#8d8d8d"
+      },
+      {
+        "name": "Copper",
+        "hex": "#b87333"
+      }
+    ],
+    "description": "Double-walled stainless steel French press for perfect coffee.",
+    "features": [
+      "Double-Wall Insulation",
+      "4-Level Filtration",
+      "1 Liter",
+      "Dishwasher Safe",
+      "Heat Resistant"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "deals"
+    ]
+  },
+  {
+    "id": "prod-007",
+    "title": "4K Ultra HD Smart TV - 55 inch",
+    "slug": "4k-smart-tv-55",
+    "price": 32999,
+    "originalPrice": 49999,
+    "discount": 34,
+    "rating": 4.5,
+    "reviewCount": 2103,
+    "brand": "VisionMax",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=600",
+      "https://images.unsplash.com/photo-1461151304267-38535e780c79?w=600"
+    ],
+    "sizes": [
+      "43 inch",
+      "55 inch",
+      "65 inch"
+    ],
+    "description": "Stunning 4K with Dolby Vision and Atmos.",
+    "features": [
+      "4K Ultra HD",
+      "Dolby Vision & Atmos",
+      "Smart OS",
+      "Voice Control",
+      "3 HDMI"
+    ],
+    "inStock": true,
+    "deliveryDays": 7,
+    "tags": [
+      "deals",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-008",
+    "title": "Organic Bamboo Bed Sheets - King",
+    "slug": "organic-bamboo-sheets",
+    "price": 2799,
+    "originalPrice": 4999,
+    "discount": 44,
+    "rating": 4.8,
+    "reviewCount": 987,
+    "brand": "SleepWell",
+    "category": "home",
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=600",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=600"
+    ],
+    "sizes": [
+      "Single",
+      "Double",
+      "Queen",
+      "King"
+    ],
+    "colors": [
+      {
+        "name": "Ivory",
+        "hex": "#fffff0"
+      },
+      {
+        "name": "Sage",
+        "hex": "#bcbca0"
+      },
+      {
+        "name": "Dusty Blue",
+        "hex": "#b0c4de"
+      }
+    ],
+    "description": "100% organic bamboo sheets for luxury sleep.",
+    "features": [
+      "100% Organic Bamboo",
+      "400 Thread Count",
+      "Hypoallergenic",
+      "Temp Regulating",
+      "Deep Pocket"
+    ],
+    "inStock": true,
+    "deliveryDays": 4,
+    "tags": [
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-009",
+    "title": "Professional DSLR Camera",
+    "slug": "professional-dslr-camera",
+    "price": 42999,
+    "originalPrice": 59999,
+    "discount": 28,
+    "rating": 4.6,
+    "reviewCount": 743,
+    "brand": "OpticPro",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600"
+    ],
+    "description": "24.2MP DSLR with 4K video and weather-sealed body.",
+    "features": [
+      "24.2MP Sensor",
+      "4K Video",
+      "45-Point AF",
+      "Weather Sealed",
+      "Dual Cards"
+    ],
+    "inStock": true,
+    "deliveryDays": 5,
+    "tags": [
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-010",
+    "title": "Leather Crossbody Bag",
+    "slug": "leather-crossbody-bag",
+    "price": 1899,
+    "originalPrice": 3499,
+    "discount": 46,
+    "rating": 4.3,
+    "reviewCount": 1245,
+    "brand": "LuxeCarry",
+    "category": "fashion",
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Tan Brown",
+        "hex": "#d2691e"
+      },
+      {
+        "name": "Black",
+        "hex": "#1a1a1a"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#800020"
+      }
+    ],
+    "description": "Handcrafted genuine leather crossbody bag.",
+    "features": [
+      "Genuine Leather",
+      "Adjustable Strap",
+      "Multiple Compartments",
+      "Brass Hardware",
+      "Cotton Lining"
+    ],
+    "inStock": true,
+    "deliveryDays": 4,
+    "tags": [
+      "deals",
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-011",
+    "title": "Wireless Bluetooth Speaker",
+    "slug": "wireless-bluetooth-speaker",
+    "price": 1799,
+    "originalPrice": 3299,
+    "discount": 45,
+    "rating": 4.4,
+    "reviewCount": 2891,
+    "brand": "SoundMax",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+      "https://images.unsplash.com/photo-1589003077984-894e133dabab?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#191970"
+      },
+      {
+        "name": "Red",
+        "hex": "#dc2626"
+      },
+      {
+        "name": "Teal",
+        "hex": "#008080"
+      }
+    ],
+    "description": "Waterproof Bluetooth speaker with 360 sound.",
+    "features": [
+      "IPX7 Waterproof",
+      "20-Hour Battery",
+      "360 Sound",
+      "Bluetooth 5.0",
+      "Built-in Mic"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "deals",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-012",
+    "title": "Non-Stick Cookware Set 8 Piece",
+    "slug": "non-stick-cookware-set",
+    "price": 3499,
+    "originalPrice": 6999,
+    "discount": 50,
+    "rating": 4.5,
+    "reviewCount": 1678,
+    "brand": "ChefElite",
+    "category": "home",
+    "images": [
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600"
+    ],
+    "description": "Premium 8-piece ceramic non-stick cookware set.",
+    "features": [
+      "Ceramic Coating",
+      "Even Heat",
+      "8 Piece",
+      "Dishwasher Safe",
+      "PFOA Free"
+    ],
+    "inStock": true,
+    "deliveryDays": 5,
+    "tags": [
+      "deals",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-013",
+    "title": "Men's Chronograph Watch",
+    "slug": "mens-chronograph-watch",
+    "price": 4499,
+    "originalPrice": 8999,
+    "discount": 50,
+    "rating": 4.6,
+    "reviewCount": 934,
+    "brand": "TimeVault",
+    "category": "fashion",
+    "images": [
+      "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=600",
+      "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#c0c0c0"
+      },
+      {
+        "name": "Gold",
+        "hex": "#ffd700"
+      },
+      {
+        "name": "Rose Gold",
+        "hex": "#b76e79"
+      }
+    ],
+    "description": "Precision chronograph with sapphire crystal.",
+    "features": [
+      "Japanese Quartz",
+      "Sapphire Crystal",
+      "100m Water Resistant",
+      "Chronograph",
+      "Stainless Steel"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "trending",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-014",
+    "title": "Yoga Mat Premium 6mm",
+    "slug": "premium-yoga-mat",
+    "price": 999,
+    "originalPrice": 1999,
+    "discount": 50,
+    "rating": 4.7,
+    "reviewCount": 2456,
+    "brand": "ZenFit",
+    "category": "sports",
+    "images": [
+      "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Lavender",
+        "hex": "#e6e6fa"
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "#0077b6"
+      },
+      {
+        "name": "Sage",
+        "hex": "#bcbca0"
+      }
+    ],
+    "description": "Non-slip eco-friendly yoga mat.",
+    "features": [
+      "Non-Slip",
+      "6mm Thick",
+      "Eco-Friendly TPE",
+      "Lightweight",
+      "Carry Strap"
+    ],
+    "inStock": true,
+    "deliveryDays": 2,
+    "tags": [
+      "deals",
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-015",
+    "title": "Electric Kettle Temp Control",
+    "slug": "electric-kettle",
+    "price": 1599,
+    "originalPrice": 2999,
+    "discount": 47,
+    "rating": 4.3,
+    "reviewCount": 1234,
+    "brand": "BrewMaster",
+    "category": "home",
+    "images": [
+      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Matte Black",
+        "hex": "#2d2d2d"
+      },
+      {
+        "name": "Stainless",
+        "hex": "#8d8d8d"
+      }
+    ],
+    "description": "Precision temperature control kettle.",
+    "features": [
+      "6 Presets",
+      "1.7L",
+      "Rapid Boil",
+      "Keep Warm",
+      "Auto Shut-Off"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "deals"
+    ]
+  },
+  {
+    "id": "prod-016",
+    "title": "Women's Silk Saree Designer",
+    "slug": "womens-silk-saree",
+    "price": 2999,
+    "originalPrice": 5999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 567,
+    "brand": "EthnicWeave",
+    "category": "fashion",
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Royal Blue",
+        "hex": "#4169e1"
+      },
+      {
+        "name": "Maroon",
+        "hex": "#800000"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#50c878"
+      }
+    ],
+    "description": "Handwoven silk saree with zari work.",
+    "features": [
+      "Pure Silk",
+      "Handwoven Zari",
+      "6.3m with blouse",
+      "Dry Clean",
+      "Gift Box"
+    ],
+    "inStock": true,
+    "deliveryDays": 5,
+    "tags": [
+      "trending",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-017",
+    "title": "Power Bank 20000mAh",
+    "slug": "power-bank-20000",
+    "price": 1299,
+    "originalPrice": 2499,
+    "discount": 48,
+    "rating": 4.4,
+    "reviewCount": 3456,
+    "brand": "ChargePlus",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1a1a1a"
+      },
+      {
+        "name": "White",
+        "hex": "#f5f5f5"
+      }
+    ],
+    "description": "Slim 20000mAh power bank with fast charging.",
+    "features": [
+      "20000mAh",
+      "22.5W Fast Charge",
+      "Triple Output",
+      "LED Indicator",
+      "Airline Safe"
+    ],
+    "inStock": true,
+    "deliveryDays": 2,
+    "tags": [
+      "deals",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-018",
+    "title": "Air Purifier HEPA",
+    "slug": "air-purifier-hepa",
+    "price": 8999,
+    "originalPrice": 14999,
+    "discount": 40,
+    "rating": 4.5,
+    "reviewCount": 876,
+    "brand": "PureAir",
+    "category": "home",
+    "images": [
+      "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600"
+    ],
+    "description": "HEPA air purifier for rooms up to 500 sq ft.",
+    "features": [
+      "True HEPA H13",
+      "500 sq ft",
+      "Whisper Quiet",
+      "Auto Mode",
+      "Air Quality LED"
+    ],
+    "inStock": true,
+    "deliveryDays": 5,
+    "tags": [
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-019",
+    "title": "Kids Building Blocks 500pc",
+    "slug": "kids-building-blocks",
+    "price": 1499,
+    "originalPrice": 2999,
+    "discount": 50,
+    "rating": 4.7,
+    "reviewCount": 2134,
+    "brand": "PlaySmart",
+    "category": "toys",
+    "images": [
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=600"
+    ],
+    "description": "500-piece building blocks set for creativity.",
+    "features": [
+      "500 Pieces",
+      "Compatible",
+      "Non-Toxic ABS",
+      "Storage Box",
+      "Ages 4+"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "deals",
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-020",
+    "title": "Organic Green Tea 100 Bags",
+    "slug": "organic-green-tea",
+    "price": 499,
+    "originalPrice": 899,
+    "discount": 44,
+    "rating": 4.5,
+    "reviewCount": 4567,
+    "brand": "NatureBrew",
+    "category": "grocery",
+    "images": [
+      "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=600"
+    ],
+    "description": "Premium organic green tea from Darjeeling.",
+    "features": [
+      "100% Organic",
+      "100 Bags",
+      "Antioxidant Rich",
+      "Biodegradable",
+      "Darjeeling"
+    ],
+    "inStock": true,
+    "deliveryDays": 2,
+    "tags": [
+      "deals",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-021",
+    "title": "Gaming Mouse RGB 16000 DPI",
+    "slug": "gaming-mouse-rgb",
+    "price": 1999,
+    "originalPrice": 3499,
+    "discount": 43,
+    "rating": 4.6,
+    "reviewCount": 1892,
+    "brand": "TechNova",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#0d0d0d"
+      },
+      {
+        "name": "White",
+        "hex": "#f0f0f0"
+      }
+    ],
+    "description": "Precision gaming mouse with RGB lighting.",
+    "features": [
+      "16000 DPI",
+      "RGB",
+      "8 Buttons",
+      "Ergonomic",
+      "On-Board Memory"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-022",
+    "title": "Jaipuri Cotton Bedspread",
+    "slug": "jaipuri-bedspread",
+    "price": 1299,
+    "originalPrice": 2499,
+    "discount": 48,
+    "rating": 4.4,
+    "reviewCount": 789,
+    "brand": "HomeCraft",
+    "category": "home",
+    "images": [
+      "https://images.unsplash.com/photo-1616627561950-9f746e330187?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Blue Floral",
+        "hex": "#4682b4"
+      },
+      {
+        "name": "Pink",
+        "hex": "#db7093"
+      }
+    ],
+    "description": "Hand-block printed Jaipuri bedspread set.",
+    "features": [
+      "Hand Block Print",
+      "100% Cotton",
+      "3 Piece",
+      "Machine Wash",
+      "Color Fast"
+    ],
+    "inStock": true,
+    "deliveryDays": 4,
+    "tags": [
+      "deals"
+    ]
+  },
+  {
+    "id": "prod-023",
+    "title": "Whey Protein Chocolate 2kg",
+    "slug": "whey-protein-chocolate",
+    "price": 2499,
+    "originalPrice": 3999,
+    "discount": 38,
+    "rating": 4.3,
+    "reviewCount": 3421,
+    "brand": "FitFuel",
+    "category": "sports",
+    "images": [
+      "https://images.unsplash.com/photo-1593095948071-474c5cc2c1cf?w=600"
+    ],
+    "description": "Premium whey protein with 24g per serving.",
+    "features": [
+      "24g Protein",
+      "Low Sugar",
+      "2kg",
+      "Added BCAAs",
+      "Easy Mix"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-024",
+    "title": "Wireless Earbuds ANC",
+    "slug": "wireless-earbuds-anc",
+    "price": 2999,
+    "originalPrice": 5999,
+    "discount": 50,
+    "rating": 4.5,
+    "reviewCount": 2678,
+    "brand": "SoundMax",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Graphite",
+        "hex": "#383838"
+      },
+      {
+        "name": "White",
+        "hex": "#f5f5f5"
+      },
+      {
+        "name": "Navy",
+        "hex": "#000080"
+      }
+    ],
+    "description": "Crystal clear audio with powerful noise cancellation.",
+    "features": [
+      "ANC",
+      "32hr Battery",
+      "IPX5",
+      "Touch Controls",
+      "Wireless Charging"
+    ],
+    "inStock": true,
+    "deliveryDays": 2,
+    "tags": [
+      "deals",
+      "trending",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-025",
+    "title": "Cast Iron Skillet 12 inch",
+    "slug": "cast-iron-skillet",
+    "price": 1899,
+    "originalPrice": 3499,
+    "discount": 46,
+    "rating": 4.8,
+    "reviewCount": 654,
+    "brand": "ChefElite",
+    "category": "home",
+    "images": [
+      "https://images.unsplash.com/photo-1585442231391-5a4c4eddb81a?w=600"
+    ],
+    "description": "Pre-seasoned cast iron skillet built to last.",
+    "features": [
+      "Pre-Seasoned",
+      "12 inch",
+      "Oven Safe 500F",
+      "Pour Spouts",
+      "Assist Handle"
+    ],
+    "inStock": true,
+    "deliveryDays": 4,
+    "tags": [
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-026",
+    "title": "Kids Educational Tablet 10 inch",
+    "slug": "kids-tablet",
+    "price": 6999,
+    "originalPrice": 11999,
+    "discount": 42,
+    "rating": 4.4,
+    "reviewCount": 1123,
+    "brand": "PlaySmart",
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#4169e1"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff69b4"
+      }
+    ],
+    "description": "Safe learning tablet with parental controls.",
+    "features": [
+      "10 inch HD",
+      "Parental Controls",
+      "Shockproof",
+      "64GB",
+      "12hr Battery"
+    ],
+    "inStock": true,
+    "deliveryDays": 4,
+    "tags": [
+      "deals"
+    ]
+  },
+  {
+    "id": "prod-027",
+    "title": "Resistance Bands Set 5 Levels",
+    "slug": "resistance-bands",
+    "price": 699,
+    "originalPrice": 1499,
+    "discount": 53,
+    "rating": 4.5,
+    "reviewCount": 3892,
+    "brand": "ZenFit",
+    "category": "sports",
+    "images": [
+      "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Multi-Color",
+        "hex": "#ff6347"
+      }
+    ],
+    "description": "5-level resistance band set for home workouts.",
+    "features": [
+      "5 Levels",
+      "Natural Latex",
+      "Non-Slip",
+      "Carry Bag",
+      "Guide"
+    ],
+    "inStock": true,
+    "deliveryDays": 2,
+    "tags": [
+      "deals",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "prod-028",
+    "title": "Windproof Travel Umbrella",
+    "slug": "windproof-umbrella",
+    "price": 799,
+    "originalPrice": 1599,
+    "discount": 50,
+    "rating": 4.3,
+    "reviewCount": 2341,
+    "brand": "UrbanThread",
+    "category": "fashion",
+    "images": [
+      "https://images.unsplash.com/photo-1534309466160-70b22cc6254d?w=600"
+    ],
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#000080"
+      },
+      {
+        "name": "Black",
+        "hex": "#1a1a1a"
+      }
+    ],
+    "description": "Auto open/close windproof travel umbrella.",
+    "features": [
+      "Auto Open/Close",
+      "Windproof",
+      "Compact",
+      "Teflon Coat",
+      "Ergonomic"
+    ],
+    "inStock": true,
+    "deliveryDays": 2,
+    "tags": [
+      "deals"
+    ]
+  },
+  {
+    "id": "prod-029",
+    "title": "Smart LED Bulbs 4 Pack WiFi",
+    "slug": "smart-led-bulbs",
+    "price": 1299,
+    "originalPrice": 2499,
+    "discount": 48,
+    "rating": 4.2,
+    "reviewCount": 1567,
+    "brand": "HomeCraft",
+    "category": "home",
+    "images": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600"
+    ],
+    "description": "WiFi smart bulbs with 16M colors.",
+    "features": [
+      "WiFi",
+      "16M Colors",
+      "Voice Control",
+      "Scheduling",
+      "Energy Efficient"
+    ],
+    "inStock": true,
+    "deliveryDays": 3,
+    "tags": [
+      "trending"
+    ]
+  },
+  {
+    "id": "prod-030",
+    "title": "Insulated Water Bottle 1L",
+    "slug": "insulated-water-bottle",
+    "price": 699,
+    "originalPrice": 1299,
+    "discount": 46,
+    "rating": 4.6,
+    "reviewCount": 5678,
+    "brand": "EcoSip",
+    "category": "sports",
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f5f5f5"
+      },
+      {
+        "name": "Blue",
+        "hex": "#0077b6"
+      },
+      {
+        "name": "Black",
+        "hex": "#2d2d2d"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff69b4"
+      }
+    ],
+    "description": "Double-wall vacuum insulated, BPA free.",
+    "features": [
+      "Vacuum Insulated",
+      "1L",
+      "BPA Free",
+      "Leak-Proof",
+      "Hot 12h/Cold 24h"
+    ],
+    "inStock": true,
+    "deliveryDays": 2,
+    "tags": [
+      "bestseller",
+      "trending"
+    ]
+  }
+]

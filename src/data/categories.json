@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "icon": "Smartphone",
+    "productCount": 42
+  },
+  {
+    "name": "Fashion",
+    "slug": "fashion",
+    "icon": "Shirt",
+    "productCount": 38
+  },
+  {
+    "name": "Home & Living",
+    "slug": "home",
+    "icon": "Home",
+    "productCount": 29
+  },
+  {
+    "name": "Sports & Fitness",
+    "slug": "sports",
+    "icon": "Dumbbell",
+    "productCount": 24
+  },
+  {
+    "name": "Toys & Games",
+    "slug": "toys",
+    "icon": "Gamepad2",
+    "productCount": 18
+  },
+  {
+    "name": "Grocery",
+    "slug": "grocery",
+    "icon": "ShoppingBasket",
+    "productCount": 35
+  },
+  {
+    "name": "Beauty",
+    "slug": "beauty",
+    "icon": "Sparkles",
+    "productCount": 22
+  },
+  {
+    "name": "Books",
+    "slug": "books",
+    "icon": "BookOpen",
+    "productCount": 31
+  }
+]

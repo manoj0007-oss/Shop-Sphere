@@ -1,0 +1,9 @@
+export interface Product{id:string;title:string;slug:string;price:number;originalPrice:number;discount:number;rating:number;reviewCount:number;brand:string;category:string;images:string[];sizes?:string[];colors?:ProductColor[];description:string;features:string[];inStock:boolean;deliveryDays:number;tags:string[];}
+export interface ProductColor{name:string;hex:string;}
+export interface Category{name:string;slug:string;icon:string;productCount:number;}
+export interface Banner{id:string;title:string;subtitle:string;ctaText:string;ctaLink:string;gradientFrom:string;gradientTo:string;image:string;}
+export interface CartItem{product:Product;quantity:number;selectedSize?:string;selectedColor?:string;}
+export interface Review{id:string;productId:string;userName:string;avatar:string;rating:number;date:string;title:string;comment:string;helpful:number;}
+export interface Address{id?:string;fullName:string;phone:string;addressLine1:string;addressLine2?:string;city:string;state:string;pincode:string;isDefault?:boolean;}
+export interface Order{id:string;items:CartItem[];address:Address;paymentMethod:string;subtotal:number;shipping:number;tax:number;total:number;status:'pending'|'confirmed'|'shipped'|'delivered';createdAt:string;}
+export interface FilterState{priceRange:[number,number];categories:string[];brands:string[];minRating:number;sortBy:'price-low'|'price-high'|'rating'|'newest'|'discount';searchQuery:string;}
